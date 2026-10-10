@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+  <name>CarePlus Hospital</name>
+  <tagline>Your health, our priority</tagline>
+  <contact>
+    <email>careplus@example.com</email>
+    <phone>+91 98765 43210</phone>
+  </contact>
+  <departments>
+    <department id="D01"><name>General Medicine</name><description>Common health concerns</description></department>
+    <department id="D02"><name>Cardiology</name><description>Heart health consultation</description></department>
+    <department id="D03"><name>Pediatrics</name><description>Healthcare for children</description></department>
+    <department id="D04"><name>Orthopedics</name><description>Bones and joints</description></department>
+    <department id="D05"><name>Laboratory</name><description>Routine laboratory testing</description></department>
+    <department id="D06"><name>Dermatology</name><description>Skin and hair consultation</description></department>
+  </departments>
+</hospital>
